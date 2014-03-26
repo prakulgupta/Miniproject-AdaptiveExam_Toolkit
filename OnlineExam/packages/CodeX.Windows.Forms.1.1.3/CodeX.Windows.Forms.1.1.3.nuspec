@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CodeX.Windows.Forms</id>
+    <version>1.1.3</version>
+    <title>Code eXtensions for Windows forms</title>
+    <authors>Balakumar Sundaramurthy</authors>
+    <owners>Balakumar Sundaramurthy</owners>
+    <licenseUrl>http://codex.azurewebsites.net/Data/License.txt</licenseUrl>
+    <projectUrl>http://codex.azurewebsites.net/</projectUrl>
+    <iconUrl>http://codex.azurewebsites.net/Images/ColorLogoShortenedBlack.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>This is Code eXtension version for Windows forms, comprising of CodeX, simple extensions for Windows form objects.  It also includes Rich form and Rich Console, which can provide Metro look to your Windows forms.</description>
+    <summary>Copyright (c) Microsoft Open Technologies, Inc. All rights reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.</summary>
+    <releaseNotes>Fixed WindowsState.Maximized bug in onload.  Added NotifyToBalloon method.</releaseNotes>
+    <copyright>Microsoft</copyright>
+    <language>en-US</language>
+    <tags>CodeX,code extensions,windows forms,winform,c#,vb,Rich,RichForm,Rich Forms,Rich Console,Console,Microsoft, Animation,Theme</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="CodeX" version="1.0.4" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Configuration.Install" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Data" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Data.DataSetExtensions" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Windows.Forms" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Xml.Linq" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Xml" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Deployment" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Configuration" targetFramework="" />
+    </frameworkAssemblies>
+    <references>
+      <reference file="CodeX.Windows.Forms.dll" />
+    </references>
+  </metadata>
+</package>

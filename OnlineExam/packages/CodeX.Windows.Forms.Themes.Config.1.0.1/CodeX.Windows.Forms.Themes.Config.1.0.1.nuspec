@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CodeX.Windows.Forms.Themes.Config</id>
+    <version>1.0.1</version>
+    <title>Theme Config Code eXtensions for Windows forms</title>
+    <authors>Balakumar Sundaramurthy</authors>
+    <owners>Balakumar Sundaramurthy</owners>
+    <licenseUrl>http://codex.azurewebsites.net/Data/License.txt</licenseUrl>
+    <projectUrl>http://codex.azurewebsites.net/</projectUrl>
+    <iconUrl>http://codex.azurewebsites.net/Images/ColorLogoShortenedBlack.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Contains Sample config file for theming your Windows Forms</description>
+    <summary>Copyright (c) Microsoft Open Technologies, Inc. All rights reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.</summary>
+    <releaseNotes />
+    <copyright>Microsoft</copyright>
+    <language>en-US</language>
+    <tags>CodeX,code extensions,windows forms,winform,c#,vb,Rich,RichForm,Rich Forms,Rich Console,Console,Microsoft, Animation,Theme</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="CodeX.Windows.Forms" version="1.1.2" />
+      </group>
+    </dependencies>
+    <references />
+  </metadata>
+</package>

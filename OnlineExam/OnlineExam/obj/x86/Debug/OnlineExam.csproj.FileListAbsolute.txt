@@ -1,0 +1,366 @@
+c:\users\prakul\documents\visual studio 2012\Projects\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe.config
+c:\users\prakul\documents\visual studio 2012\Projects\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe
+c:\users\prakul\documents\visual studio 2012\Projects\OnlineExam\OnlineExam\bin\Debug\OnlineExam.pdb
+c:\users\prakul\documents\visual studio 2012\Projects\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Form1.resources
+c:\users\prakul\documents\visual studio 2012\Projects\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Properties.Resources.resources
+c:\users\prakul\documents\visual studio 2012\Projects\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csproj.GenerateResource.Cache
+c:\users\prakul\documents\visual studio 2012\Projects\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.exe
+c:\users\prakul\documents\visual studio 2012\Projects\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.pdb
+C:\Users\Prakul\documents\visual studio 2012\Projects\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.student.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\Projects\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csprojResolveAssemblyReference.cache
+C:\Users\Prakul\Documents\Visual Studio 2012\Projects\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacher1.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\Projects\OnlineExam\OnlineExam\bin\Debug\Database1.mdf
+C:\Users\Prakul\Documents\Visual Studio 2012\Projects\OnlineExam\OnlineExam\bin\Debug\Database1_log.ldf
+C:\Users\Prakul\documents\visual studio 2012\Projects\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.RadForm1.resources
+C:\Users\Prakul\documents\visual studio 2012\Projects\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.GiveExam.resources
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe.config
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.exe
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.pdb
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\Database1.mdf
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\Database1_log.ldf
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\OnlineExam.pdb
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csprojResolveAssemblyReference.cache
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Form1.resources
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.GiveExam.resources
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Properties.Resources.resources
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.RadForm1.resources
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Student.resources
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacher1.resources
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csproj.GenerateResource.Cache
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\MVC3ControlsToolkit.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\NHibernate.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\WebActivator.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.xml
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\NHibernate.xml
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.xml
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.xml
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\de\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\es\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\fa\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\fr\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\hr\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\it\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\lv\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\nl\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\pl\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\pt-BR\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\Database2.mdf
+C:\Users\Prakul\Desktop\project\OnlineExam\OnlineExam\bin\Debug\Database2_log.ldf
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe.config
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.exe
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.pdb
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\Database1.mdf
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\Database1_log.ldf
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\Database2.mdf
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\Database2_log.ldf
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\OnlineExam.pdb
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\MVC3ControlsToolkit.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\NHibernate.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\WebActivator.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.xml
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\NHibernate.xml
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.xml
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.xml
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\de\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\es\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\fa\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\fr\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\hr\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\it\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\lv\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\nl\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\pl\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\bin\Debug\pt-BR\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csprojResolveAssemblyReference.cache
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Form1.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.GiveExam.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Properties.Resources.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Student.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacher1.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csproj.GenerateResource.Cache
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\App.baml
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\Themes\ExpressionDark.baml
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\App.g.cs
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_Content.g.cs
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_MarkupCompile.cache
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.g.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe.config
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.exe
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.pdb
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\Database1.mdf
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\Database1_log.ldf
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\Database2.mdf
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\Database2_log.ldf
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\OnlineExam.pdb
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\MVC3ControlsToolkit.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\NHibernate.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\WebActivator.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.xml
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\NHibernate.xml
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.xml
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.xml
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\de\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\es\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\fa\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\fr\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\hr\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\it\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\lv\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\nl\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\pl\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\bin\Debug\pt-BR\NHibernate.Validator.resources.dll
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csprojResolveAssemblyReference.cache
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\App.baml
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\Themes\ExpressionDark.baml
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\App.g.cs
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_Content.g.cs
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_MarkupCompile.cache
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.g.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Form1.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.GiveExam.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Properties.Resources.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.RadForm1.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Student.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacher1.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\online_examcopy\1\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csproj.GenerateResource.Cache
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.example.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.AdminPage.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_login.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_registration.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacherlogin.resources
+C:\Users\Prakul\Documents\Visual Studio 2012\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Studentlogin.resources
+P:\collegC\Projects\MINI 5th 6th sem\Final Submission\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe.config
+P:\collegC\Projects\MINI 5th 6th sem\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.exe
+P:\collegC\Projects\MINI 5th 6th sem\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.pdb
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe.config
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.exe
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.pdb
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csprojResolveAssemblyReference.cache
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\App.baml
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\Themes\ExpressionDark.baml
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\App.g.cs
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_Content.g.cs
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_MarkupCompile.cache
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.g.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.AdminPage.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_login.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_registration.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.example.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Form1.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.GiveExam.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Properties.Resources.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Student.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Studentlogin.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacher1.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacherlogin.resources
+E:\College Life\Projects\Mini project 3rd yr\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csproj.GenerateResource.Cache
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\OnlineExam.pdb
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\WebActivator.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\Database1.mdf
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\Database1_log.ldf
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\Database2.mdf
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\Database2_log.ldf
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe.config
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\MVC3ControlsToolkit.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\NHibernate.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.xml
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\NHibernate.xml
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.xml
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.xml
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\de\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\es\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\fa\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\fr\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\hr\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\it\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\lv\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\nl\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\pl\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\bin\Debug\pt-BR\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\App.baml
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\Themes\ExpressionDark.baml
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\App.g.cs
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_Content.g.cs
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_MarkupCompile.cache
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.g.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.AdminPage.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_login.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_registration.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.example.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Form1.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.GiveExam.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Properties.Resources.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Student.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Studentlogin.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacher1.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacherlogin.resources
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csproj.GenerateResource.Cache
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.exe
+E:\College Life\Projects\Final Submission\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.pdb
+E:\OnlineExam\OnlineExam\bin\Debug\Database1.mdf
+E:\OnlineExam\OnlineExam\bin\Debug\Database1_log.ldf
+E:\OnlineExam\OnlineExam\bin\Debug\Database2.mdf
+E:\OnlineExam\OnlineExam\bin\Debug\Database2_log.ldf
+E:\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe.config
+E:\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe
+E:\OnlineExam\OnlineExam\bin\Debug\OnlineExam.pdb
+E:\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.dll
+E:\OnlineExam\OnlineExam\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\OnlineExam\OnlineExam\bin\Debug\MVC3ControlsToolkit.dll
+E:\OnlineExam\OnlineExam\bin\Debug\NHibernate.dll
+E:\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.dll
+E:\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.dll
+E:\OnlineExam\OnlineExam\bin\Debug\WebActivator.dll
+E:\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.xml
+E:\OnlineExam\OnlineExam\bin\Debug\NHibernate.xml
+E:\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.xml
+E:\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.xml
+E:\OnlineExam\OnlineExam\bin\Debug\de\NHibernate.Validator.resources.dll
+E:\OnlineExam\OnlineExam\bin\Debug\es\NHibernate.Validator.resources.dll
+E:\OnlineExam\OnlineExam\bin\Debug\fa\NHibernate.Validator.resources.dll
+E:\OnlineExam\OnlineExam\bin\Debug\fr\NHibernate.Validator.resources.dll
+E:\OnlineExam\OnlineExam\bin\Debug\hr\NHibernate.Validator.resources.dll
+E:\OnlineExam\OnlineExam\bin\Debug\it\NHibernate.Validator.resources.dll
+E:\OnlineExam\OnlineExam\bin\Debug\lv\NHibernate.Validator.resources.dll
+E:\OnlineExam\OnlineExam\bin\Debug\nl\NHibernate.Validator.resources.dll
+E:\OnlineExam\OnlineExam\bin\Debug\pl\NHibernate.Validator.resources.dll
+E:\OnlineExam\OnlineExam\bin\Debug\pt-BR\NHibernate.Validator.resources.dll
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csprojResolveAssemblyReference.cache
+E:\OnlineExam\OnlineExam\obj\x86\Debug\App.baml
+E:\OnlineExam\OnlineExam\obj\x86\Debug\Themes\ExpressionDark.baml
+E:\OnlineExam\OnlineExam\obj\x86\Debug\App.g.cs
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_Content.g.cs
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_MarkupCompile.cache
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.g.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.AdminPage.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_login.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_registration.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.example.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Form1.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.GiveExam.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Properties.Resources.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Student.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Studentlogin.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacher1.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacherlogin.resources
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csproj.GenerateResource.Cache
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.exe
+E:\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.pdb
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\Database1.mdf
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\Database1_log.ldf
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\Database2.mdf
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\Database2_log.ldf
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe.config
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\OnlineExam.pdb
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\MVC3ControlsToolkit.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\NHibernate.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\WebActivator.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.xml
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\NHibernate.xml
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.xml
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.xml
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\de\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\es\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\fa\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\fr\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\hr\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\it\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\lv\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\nl\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\pl\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\bin\Debug\pt-BR\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csprojResolveAssemblyReference.cache
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\App.baml
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\Themes\ExpressionDark.baml
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\App.g.cs
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_Content.g.cs
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_MarkupCompile.cache
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.g.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.AdminPage.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_login.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_registration.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.example.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Form1.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.GiveExam.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Properties.Resources.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Student.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Studentlogin.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacher1.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacherlogin.resources
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csproj.GenerateResource.Cache
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.exe
+E:\College Life\Projects\Mini project 3rd yr\updated\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.pdb
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\Database1.mdf
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\Database1_log.ldf
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\Database2.mdf
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\Database2_log.ldf
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe.config
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\OnlineExam.exe
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\OnlineExam.pdb
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\MVC3ControlsToolkit.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\NHibernate.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\WebActivator.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\Iesi.Collections.xml
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\NHibernate.xml
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.xml
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\NHibernate.Validator.Specific.xml
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\de\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\es\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\fa\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\fr\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\hr\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\it\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\lv\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\nl\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\pl\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\bin\Debug\pt-BR\NHibernate.Validator.resources.dll
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csprojResolveAssemblyReference.cache
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\App.baml
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\Themes\ExpressionDark.baml
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\App.g.cs
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_Content.g.cs
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam_MarkupCompile.cache
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.g.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.AdminPage.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_login.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Admin_registration.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.example.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Form1.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.GiveExam.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Properties.Resources.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Student.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.Studentlogin.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacher1.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.teacherlogin.resources
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.csproj.GenerateResource.Cache
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.exe
+E:\College Life\Projects\Mini project 3rd yr\updated 2014\OnlineExam\OnlineExam\obj\x86\Debug\OnlineExam.pdb

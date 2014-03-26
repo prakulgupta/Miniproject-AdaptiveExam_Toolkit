@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>CodeX</id>
+    <version>1.0.4</version>
+    <title>Code eXtensions</title>
+    <authors>Anuj Kumar Gupta, Balakumar Sundaramurthy, Krishnakant Mahamuni, Wasim Bloch, Vijay Pandurangan</authors>
+    <owners>Anuj Kumar Gupta, Balakumar Sundaramurthy, Krishnakant Mahamuni, Wasim Bloch, Vijay Pandurangan</owners>
+    <licenseUrl>http://codex.azurewebsites.net/Data/License.txt</licenseUrl>
+    <projectUrl>http://codex.azurewebsites.net/</projectUrl>
+    <iconUrl>http://codex.azurewebsites.net/images/ColorLogoShortenedBlack.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>CodeX is set of .net extensions comprising of basic extensions which come up in all the project helper classes.</description>
+    <summary>CodeX is set of .net extensions comprising of basic extensions which come up in all the project helper classes.</summary>
+    <releaseNotes>Added some more methods for file info.</releaseNotes>
+    <language>en-US</language>
+    <tags>Code eXtension, .NET Extension, Program Extensions, CodeX, Simple, Simple X</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Data" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Data.DataSetExtensions" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Xml" targetFramework="" />
+      <frameworkAssembly assemblyName="System.ComponentModel.DataAnnotations" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Xml.Linq" targetFramework="" />
+    </frameworkAssemblies>
+    <references>
+      <reference file="CodeX.dll" />
+    </references>
+  </metadata>
+</package>
